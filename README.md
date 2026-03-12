@@ -13,7 +13,7 @@ Hey, I'm Ömer. I architect and build scalable backend systems, AI-driven applic
 * **Database & AI:** PostgreSQL, Qdrant (Vector Search), Prisma
 * **Cloud & DevOps:** Docker, Google Cloud Platform (GCP), CI/CD workflows
 * **Frontend (When necessary):** TypeScript, Next.js, React, Tailwind CSS
-* "**Mobile:**" React Native.
+* **Mobile:** React Native.
 
 ### 📈 Let's Talk Architecture
 If you're interested in vector database optimizations, Go microservices, or scalable RAG architectures, feel free to reach out.
