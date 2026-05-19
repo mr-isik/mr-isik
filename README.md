@@ -25,7 +25,7 @@ My focus: real-world problems, not tutorial clones.
 
 - **DLP layer**: Detects and redacts sensitive data (SSNs, emails, PHI) before it reaches the model
 - **Semantic cache**: Intent-aware caching — similar queries hit cache, not the API
-- **Multi-model**: One endpoint for OpenAI, Anthropic, and Llama
+- **Multi-model**: One endpoint for OpenAI, Anthropic, and Gemini
 - **Zero-config**: Drop-in replacement — swap one `baseURL`, done
 
 ### [Scope](https://github.com/mr-isik) — AI Educational Assistant
