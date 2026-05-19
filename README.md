@@ -9,10 +9,10 @@ Hey, I'm Ömer. I architect and build scalable backend systems, AI-driven applic
   * **AI Integration:** Built a highly optimized **RAG pipeline** using **Qdrant** (Vector DB) and **OpenRouter** for dynamic model routing to slash latency and API costs.
 
 ### 🛠️ Tech Stack & Arsenal
-* **Backend & Systems:** Go (Golang), Node.js, RESTful APIs, System Design
-* **Database & AI:** PostgreSQL, Qdrant (Vector Search), Prisma
-* **Cloud & DevOps:** Docker, Google Cloud Platform (GCP), CI/CD workflows
-* **Frontend (When necessary):** TypeScript, Next.js, React, Tailwind CSS
+* **Backend & Systems:** Go, Node.js, RESTful APIs, System Design
+* **Database & AI:** PostgreSQL, Qdrant, Prisma
+* **Cloud & DevOps:** Docker, Google Cloud Platform, CI/CD workflows
+* **Frontend:** TypeScript, Next.js, React, Tailwind CSS
 * **Mobile:** React Native.
 
 ### 🎨 Frontend Architecture (My Secret Weapon)
@@ -23,6 +23,6 @@ While my focus is heavy on backend and AI systems, I have a deep, architecture-l
 ### 📈 Let's Talk Architecture
 If you're interested in vector database optimizations, Go microservices, or scalable RAG architectures, feel free to reach out.
 
-📫 **Reach me at:** [faruk_isik_24@protonmail.com](mailto:faruk_isik_24@protonmail.com)
+📫 **Reach me at:** [faruk_isik_24@hotmail.com](mailto:faruk_isik_24@hotmail.com)
 🔗 **LinkedIn:** [linkedin.com/in/omer-faruk-isik-231615290](https://www.linkedin.com/in/omer-faruk-isik-231615290/)
 📝 **Medium:** [medium.com/@mr-isik](https://medium.com/@mr-isik)
