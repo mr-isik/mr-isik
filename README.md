@@ -28,7 +28,7 @@ My focus: real-world problems, not tutorial clones.
 - **Multi-model**: One endpoint for OpenAI, Anthropic, and Gemini
 - **Zero-config**: Drop-in replacement — swap one `baseURL`, done
 
-### [Scope](https://github.com/mr-isik) — AI Educational Assistant
+### [Scope](https://play.google.com/store/apps/details?id=com.kuarulabs.scope) — AI Educational Assistant
 > RAG-powered study assistant built for scale.
 
 - Go backend · Docker · GCP Cloud Run
